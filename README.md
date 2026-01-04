@@ -47,4 +47,4 @@ The core claim of this theory:
 
 ## 著者 / Author
 
-2026/01/04
+shina (2026/01/04)
