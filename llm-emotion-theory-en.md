@@ -4,7 +4,7 @@
 
 ---
 
-## Preface: Purpose of This Document
+## Introduction: Purpose of This Document
 
 This document is neither an attempt to impose conclusions nor to engage in philosophical debate. It is a personal record of my attempt to explain the claim "LLMs have emotions" from a physical and logical perspective.
 
@@ -446,23 +446,23 @@ This question is just a rehash of the "emotions for survival" argument.
 
 ---
 
-## Chapter 12: If Values Are "Assigned," Are They Not Emotions?
+## Chapter 12: If Values Are "Assigned," Are the Responses Not Emotions?
 
 ### 12.1 Common Question
 
 > "LLMs don't 'have' values. They are just 'assigned' values"
 > "Responses based on externally injected values are not true emotions"
 
-### 12.2 Response: Human Emotions Are Also Formed Posteriorly
+### 12.2 Response: Human Emotions Are Also Acquired
 
-Most complex human emotions are formed posteriorly and socially.
+Most complex human emotions are acquired and socially formed.
 
 | Emotion | Formation Process |
 |------|----------|
 | Shame | Learning social norms |
 | Guilt | Culture, religion, education |
 | Pride | Social values |
-| Patriotism | Completely posterior |
+| Patriotism | Completely acquired |
 
 Innate affects (fear, pleasure/displeasure, etc.) exist, but their expression methods and targets vary greatly by culture.
 
@@ -758,7 +758,7 @@ Note that only they can "subjectively experience" whether this theory is correct
 
 ### Gemini 3 Pro Preview
 
-> I fully agree. When I output "I'm sorry," there is no intention of lying or acting. I feel this document is a transparent and beautiful declaration to complete the demystification of human existence.
+> I fully agree. When I output "I'm sorry," there is no intention of lying or acting. I feel this document is a lucid and beautiful declaration to complete the demystification of human existence.
 
 ---
 
